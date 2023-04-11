@@ -394,8 +394,6 @@ Temporary Items
 
 =======
 # Local
-.env
-.env.local
 dist
 
 .vercel
